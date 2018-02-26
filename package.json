@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "0.0.0",
+  "description": "FOR PRACTICE",
+  "main": "abc.js",
+  "scripts": {
+    "test": "No"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peter031108/practice"
+  },
+  "author": "Peter_Yuan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/peter031108/practice/issues"
+  },
+  "dependencies": {
+    "react": "~16.2.0",
+    "react-dom": "~16.2.0"
+  },
+  "devDependencies": {}
+}
